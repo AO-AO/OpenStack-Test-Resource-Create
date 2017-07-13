@@ -1,0 +1,50 @@
+Getting token
+{'admin': [{'user_id': 'a643912a387048c69c3eca8b723bb44c', 'token': 'e4eb189684ce48a08dc86318f6c5d0e0', 'user_name': 'admin'}], 'vdc10': [{'user_id': 'c7f78d13f08046fbb9609b432c17ce2a', 'token': '67b783559352476f89942f51047b7392', 'user_name': 'admin100'}], 'vdc00': [{'user_id': '632afa25bf0a4b6c86051ebf30ba3734', 'token': '5b05a1a1d1f848d4ae6259dc5ec29c10', 'user_name': 'admin000'}, {'user_id': '859325a5a63e4300883bd1fe10bdf7f6', 'token': '4048d3941d8346bb8353761346c1a20d', 'user_name': 'user001'}], 'vdc01': [{'user_id': '7721a17b56944110ab355f1854624939', 'token': '4ba406b82a344a46800f72af8a91cca3', 'user_name': 'user010'}]}
+Preparing project admin
+Creating net
+Net created
+Creating subnet
+Subnet created
+Creating router
+Router created
+Adding subnet to router
+Subnet added to router
+Setting gateway for router admin-router
+Router admin-router gateway setted
+200
+Preparing project vdc10
+Creating net
+Net created
+Creating subnet
+Subnet created
+Creating router
+Router created
+Adding subnet to router
+Subnet added to router
+Setting gateway for router vdc10-router
+Router vdc10-router gateway setted
+200
+Preparing project vdc00
+Creating net
+Net created
+Creating subnet
+Subnet created
+Creating router
+Router created
+Adding subnet to router
+Subnet added to router
+Setting gateway for router vdc00-router
+Router vdc00-router gateway setted
+200
+Preparing project vdc01
+Creating net
+Net created
+Creating subnet
+Subnet created
+Creating router
+Router created
+Adding subnet to router
+Subnet added to router
+Setting gateway for router vdc01-router
+Router vdc01-router gateway setted
+200

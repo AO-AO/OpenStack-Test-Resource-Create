@@ -1,0 +1,46 @@
+Getting token
+{'admin': [{'user_id': 'a643912a387048c69c3eca8b723bb44c', 'token': 'ae6ceb2780054cdab5c5bad1902a87f4', 'user_name': 'admin'}], 'vdc10': [{'user_id': 'c7f78d13f08046fbb9609b432c17ce2a', 'token': 'e116d9fb4c8049078261ef1c50bb3814', 'user_name': 'admin100'}], 'vdc00': [{'user_id': '632afa25bf0a4b6c86051ebf30ba3734', 'token': '3466f5262f814ce2b495706fce29799d', 'user_name': 'admin000'}, {'user_id': '859325a5a63e4300883bd1fe10bdf7f6', 'token': '528dfae5c73b433dbe262a84611756ab', 'user_name': 'user001'}], 'vdc01': [{'user_id': '7721a17b56944110ab355f1854624939', 'token': '621d488e5abb4327b26a769f6d2391a4', 'user_name': 'user010'}]}
+Preparing instance for project admin
+202
+202
+202
+202
+202
+202
+202
+202
+Preparing instance for project vdc10
+202
+202
+202
+202
+202
+202
+202
+202
+Preparing instance for project vdc00
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+202
+Preparing instance for project vdc01
+202
+202
+202
+202
+202
+202
+202
+202

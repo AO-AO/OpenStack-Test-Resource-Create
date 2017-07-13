@@ -1,0 +1,24 @@
+node-3 | FAILED | rc=3 >>
+neutron-dhcp-agent is stopped
+
+node-1 | FAILED | rc=3 >>
+neutron-dhcp-agent is stopped
+
+node-0 | success | rc=0 >>
+neutron-dhcp-agent (pid  132602) is running...
+
+node-2 | FAILED | rc=3 >>
+neutron-dhcp-agent is stopped
+
+node-0 | FAILED | rc=3 >>
+neutron-dhcp-agent is stopped
+
+node-1 | success | rc=0 >>
+neutron-dhcp-agent (pid  39870) is running...
+
+node-3 | FAILED | rc=3 >>
+neutron-dhcp-agent is stopped
+
+node-2 | FAILED | rc=3 >>
+neutron-dhcp-agent is stopped
+

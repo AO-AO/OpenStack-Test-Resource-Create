@@ -1,0 +1,24 @@
+node-1 | success | rc=0 >>
+neutron-l3-agent (pid  116766) is running...
+
+node-0 | FAILED | rc=3 >>
+neutron-l3-agent is stopped
+
+node-3 | FAILED | rc=3 >>
+neutron-l3-agent is stopped
+
+node-2 | FAILED | rc=3 >>
+neutron-l3-agent is stopped
+
+node-3 | FAILED | rc=3 >>
+neutron-l3-agent is stopped
+
+node-0 | FAILED | rc=3 >>
+neutron-l3-agent is stopped
+
+node-1 | success | rc=0 >>
+neutron-l3-agent (pid  116766) is running...
+
+node-2 | FAILED | rc=3 >>
+neutron-l3-agent is stopped
+
